@@ -1,3 +1,4 @@
+/*
 package com.springdemo.boot.springmvc.security.config;
 
 import org.springframework.context.annotation.Configuration;
@@ -11,3 +12,4 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 		http.authorizeRequests().antMatchers("/").permitAll();
 	}
 }
+*/
